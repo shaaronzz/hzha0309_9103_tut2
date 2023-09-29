@@ -15,5 +15,5 @@ The waves this coding operates is not about the sound frequency but the noise st
 ![Image for imaging technique](assets/coding.png)
 
 ### Link of implementation
-[Link to example implementation](https://vharivinay.github.io/Flow-field-using-noise/)
-[Link to example code](https://github.com/vharivinay/Flow-field-using-noise.git)
+#### [Link to example implementation](https://vharivinay.github.io/Flow-field-using-noise/)
+#### [Link to example code](https://github.com/vharivinay/Flow-field-using-noise.git)
