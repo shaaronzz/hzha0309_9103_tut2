@@ -8,6 +8,9 @@ This example was chosen for the audio method of our individual animation task. I
 ![Image for imaging technique](assets/image2.png)
 ![Image for imaging technique](assets/image3.png)
 
+### Link of imaging technique
+#### [Link of sound visualization](https://www.youtube.com/watch?v=bpOSxM0rNPM&list=PLsDImNeiC2I1A1JEVefoEMg7OivaLzUHz&index=15)
+
 ## Part2
 The waves this coding operates is not about the sound frequency but the noise strength, it could contribute to my desired effect. This project implemented the animation by creating particle animation, and records the movements. To help achieve my design, after capture and analyze sound, and get frequency information, we could modify particle animation to use the sound data obtained from the audio analysis by adjusting the color, movements, size, or other parameters to modify visualization. This allows it to react and visualize sound frequencies, amplitudes, or other audio characteristics in real-time.
 
